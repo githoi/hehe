@@ -1,0 +1,73 @@
+.header{
+    margin: 64px 0;
+}
+html{
+    box-sizing: border-box;
+}
+#myInput2, #myInput{
+    margin-bottom: 16px;
+    width: 100%;
+    padding: 10px;
+}
+
+.input{
+    color:black;
+    height: 32px;
+    font-size: 16px;
+    float: left;
+    width: 55%;
+}
+#myDIV{
+    display: block;
+}
+
+.addBtn {
+    border: black;
+    padding: 20px 30px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 15px;
+    border-radius: 0;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    line-height: 100%;
+}
+
+#List {
+    padding-top: 130px;
+    display: block;
+    padding-left: 30px;
+}
+table, td, th {
+    border: 0.2px solid;
+    border-width: 0.1px;
+  }
+table{
+    border-collapse: collapse;
+    border: 0.2px solid black;
+}
+th, td {
+    padding: 3px 10px 3px 8px;
+}
+.sum {
+    font-weight: bold;
+    text-align: center;
+}
+#sum-id {
+    font-weight: bold;
+}
+td:nth-child(2){
+    text-align: right;
+    padding: 0 10px 0 25px;
+}
+td:nth-child(1){
+    text-align: left;
+    padding: 0 20px 0 10px;
+}
+.anh {
+    padding-top: 16px;
+}
+#mytable {
+    
+}
